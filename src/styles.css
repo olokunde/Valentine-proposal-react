@@ -96,7 +96,7 @@ body {
 
 /* 💔 FALLING BROKEN HEARTS (NO CLICK) */
 .broken-hearts::before {
-  content: "💔 💔 💔 💔 💔 💔 💔 💔 💔 💔";
+  content: "💔 💔 💔 💔 💔 💔 💔";
   position: absolute;
   font-size: 26px;
   animation: fallBrokenHearts 6s linear infinite;
